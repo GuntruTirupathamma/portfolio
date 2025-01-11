@@ -61,7 +61,7 @@ Visit the live demo (replace with actual link).
 
 Clone the repository:
 
-git clone https://github.com/username/portfolio.git
+git clone https://github.com/GuntruTirupathamma/portfolio.git
 
 Navigate to the project folder:
 
@@ -79,11 +79,9 @@ Projects Highlighted
 
 Some key projects featured in this portfolio:
 
-Project 1: Brief description with technologies used.
+Project 1: Quizapp building by using  react js,Javascript,Html,css 
 
-Project 2: Brief description with technologies used.
-
-Project 3: Brief description with technologies used.
+Project 2: task buddy building by using react js ,HTML,CSS
 
 Each project includes links to the source code and live demo (if available).
 
